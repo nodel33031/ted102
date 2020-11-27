@@ -1,0 +1,525 @@
+@import url(reset.css);
+
+body{
+	background-color: #333;
+	
+}
+
+a{
+    color: #333;
+    text-decoration: none;
+}
+
+.wrapper{
+	width:1200px;
+	margin: 0 auto;
+	background-color: #C7AB8E;
+
+}
+
+.top{
+	background-color: #eceef4;
+	width: 100%;
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	z-index: 1;
+	height: 50px;
+   	display: flex;
+   
+}
+
+ 
+.top ul{
+	
+	display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-basis: 1000px;
+    margin-left: auto;
+
+}
+
+.top li{
+	margin: 0 20px;
+}
+
+.main1{
+	
+	background-image: url(../material/cthu/newp/1035679.jpg);
+	width: 1200px;
+	height: 680px;
+	background-repeat: no-repeat;
+	display: flex;
+	flex-direction: column;
+	background-size: cover;
+	margin-bottom: 150px;
+
+}	
+
+.main1 h1{
+	font-size: 40px;
+	margin: 0 auto;
+	margin: 300px  auto 20px auto;
+	font-weight: bold;
+  	color: white;
+}
+
+.main1 h2{
+	text-align: center;
+	color: white;	
+}
+
+.main2{
+	
+	background-image: url(../material/cthu/newp/1016814.jpg);
+	width: 1200px;
+	height: 680px;
+	background-repeat: no-repeat;
+	display: flex;
+	flex-direction: column;
+	background-size: cover;
+	margin-bottom: 150px;
+	
+}	
+
+.main2 h1{
+	font-size: 40px;
+	margin: 0 auto;
+	margin: 200px  auto 20px auto;
+	font-weight: bold;
+  	color: white;
+}
+
+.main2 h2{
+	text-align: center;
+	color: white;	
+	padding-bottom: 100px ;
+}
+
+.main2 a{
+	background-color: #333;
+	width: 100px;
+	padding: 20px ;
+	color: white;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.main3{
+	
+	background-image: url(../material/cthu/9063867_p0_master1200.jpg);
+	width: 1200px;
+	height: 573px;
+	background-repeat: no-repeat;
+	display: flex;
+	flex-direction: column;
+	background-size: cover;
+	margin-bottom: 150px;
+	
+}	
+
+.main3 h1{
+	font-size: 40px;
+	margin: 0 auto;
+	margin: 200px  auto 20px auto;
+	font-weight: bold;
+  	color: white;
+}
+
+.main3 h2{
+	text-align: center;
+	color: white;	
+	padding-bottom: 100px ;
+}
+
+.main3 a{
+	background-color: #333;
+	width: 100px;
+	padding: 20px ;
+	color: white;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.main4{
+	
+	background-image: url(../material/cthu/world.jpg);
+	width: 1200px;
+	height: 680px;
+	background-repeat: no-repeat;
+	display: flex;
+	flex-direction: column;
+	background-size: cover;
+	margin-bottom: 150px;
+	
+}	
+
+.main4 h1{
+	font-size: 40px;
+	margin: 0 auto;
+	margin: 200px  auto 20px auto;
+	font-weight: bold;
+  	color: white;
+}
+
+.main4 h2{
+	text-align: center;
+	color: white;	
+	padding-bottom: 100px ;
+}
+
+.main4 a{
+	background-color: #333;
+	width: 100px;
+	padding: 20px ;
+	color: white;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.main5{
+	
+	background-image: url(../material/cthu/newp/881034.jpg);
+
+	width: 1200px;
+	height: 680px;
+	background-repeat: no-repeat;
+	display: flex;
+	flex-direction: column;
+	background-size: cover;
+	margin-bottom: 150px;
+	
+}	
+
+.main5 h1{
+	font-size: 40px;
+	margin: 0 auto;
+	margin: 200px  auto 20px auto;
+	font-weight: bold;
+  	color: white;
+}
+
+.main5 h2{
+	text-align: center;
+	color: white;	
+	padding-bottom: 100px ;
+}
+
+.main5 a{
+	background-color: #333;
+	width: 100px;
+	padding: 20px ;
+	color: white;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.main6{
+	
+	background-image: url(../material/cthu/bull.png);
+	width: 1200px;
+	height: 980px;
+	background-repeat: no-repeat;
+	display: flex;
+	flex-direction: column;
+	background-size: cover;
+	margin-bottom: 150px;
+	
+}	
+
+.main6 h1{
+	font-size: 40px;
+	margin: 0 auto;
+	margin: 200px  auto 20px auto;
+	font-weight: bold;
+  	color: white;
+}
+
+.main6 h2{
+	text-align: center;
+	color: white;	
+	padding-bottom: 300px ;
+}
+
+.main6 a{
+	background-color: #333;
+	width: 100px;
+	padding: 20px ;
+	color: white;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.main7{
+	
+	background-image: url(../material/cthu/36547540_p0_master1200.jpg);
+	width: 1200px;
+	height: 680px;
+	background-repeat: no-repeat;
+	display: flex;
+	flex-direction: column;
+	background-size: cover;
+	margin-bottom: 150px;
+	
+}	
+
+.main7 h1{
+	font-size: 40px;
+	margin: 0 auto;
+	margin: 200px  auto 20px auto;
+	font-weight: bold;
+  	color: white;
+}
+
+.main7 h2{
+	text-align: center;
+	color: white;	
+	padding-bottom: 100px ;
+}
+
+.main7 a{
+	background-color: #333;
+	width: 100px;
+	padding: 20px ;
+	color: white;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.footer{
+
+
+}
+
+/*=================遊戲介紹==================*/
+
+.aboutmain{
+	background-image: url(../material/cthu/31555062_p0_master1200.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 1200px;
+
+	/*height: 1400px;*/
+	/*height: 1400px;*/
+	/*display: flex;*/
+} 
+
+.aboutmain>h1{
+	text-align: center;
+	padding-top: 200px;
+	display: block;
+	color: white;
+	font-size: 48px;
+	font-weight: bold;
+
+}
+
+.aboutmain .box1{
+	background-color: white;
+	opacity: 0.6;
+	padding: 100px 200px;
+	margin: 50px 100px;
+	line-height: 1.6;
+}
+
+.aboutmain .box1 >h1{
+	font-size: 36px;
+	padding-bottom: 20px;
+}
+
+.aboutmain .box1 p{
+	font-size: 24px;
+}
+.aboutmain .box1 >img{
+	display: block;
+	width: 500px;
+	margin: 30px auto;
+
+}
+
+
+.aboutmain .box2{
+	background-color: white;
+	opacity: 0.6;
+	padding: 100px 200px;
+	margin: 50px 100px;
+	line-height: 1.6;
+}
+
+.aboutmain .box2 >h1{
+	font-size: 36px;
+	padding-bottom: 20px;
+}
+
+.aboutmain .box2 p{
+	font-size: 24px;
+}
+
+.aboutmain .box2 >img{
+	display: block;
+	width: 600px;
+	margin: 50px auto;
+
+}
+
+
+/*===============遊戲規則================*/
+.rulermain{
+	background-color: #333;
+}
+
+.rulermain >h1{
+	text-align: center;
+	padding-top: 200px;
+	display: block;
+	color: white;
+	font-size: 48px;
+	font-weight: bold;
+
+}
+.rulermain>h2{
+	padding-top: 100px;
+	display: block;
+	color: white;
+	font-size: 40px;
+	font-weight: bold;
+	padding-bottom: 50px;
+}
+
+.rulermain .box1 .img1{
+	width: 450px;
+	height: 350px;
+	
+	}
+.rulermain .box1 .img2{
+	width: 450px;
+	height: 350px;
+	/*display: block;*/
+}
+.rulermain .box1 .img3{
+	width: 450px;
+	height: 550px;
+	/*display: block;*/
+}
+.rulermain .box1img{
+	display: flex;
+	flex-direction: column;
+}
+
+	
+.rulermain .box1 p{
+	
+	width: 800px;
+
+}
+.rulermain .box1{
+	display: flex;
+}
+
+.rulermain .box1 p{
+	line-height: 1.6;
+	color: white;
+	font-size: 20px;
+	padding:  0 50px;
+	padding-bottom: 150px;
+}
+
+.rulermain .box2{
+	display: flex;
+	flex-direction: row-reverse;
+	background-color: #C7AB8E;
+
+}
+.rulermain .box2img{
+	display: flex;
+	flex-direction: row;
+}
+
+.rulermain .box2img .img1{
+	width: 330px;
+	height: 568px;	
+
+}
+
+.rulermain .box2img .img2{
+	width: 330px;
+	height: 568px;	
+
+}
+
+.rulermain .box2txt{
+	line-height: 1.6;
+	color: white;
+	font-size: 20px;
+	padding: 150px 50px 0 50px;
+
+}
+
+.rulermain .box3{
+	margin-top: 150px;
+	display: flex;
+	background-color: #C7AB8E;
+}
+
+.box3img img{
+	width: 550px;
+}
+
+.rulermain .box3txt{
+	line-height: 1.6;
+	color: white;
+	font-size: 20px;
+	padding: 175px 50px 0 50px;
+
+}
+/*====================世界觀==================*/
+
+.worldmain .box1{
+	background-image: url(../material/cthu/48e5355923f547feb4b405a61004094c.jpg);
+	width: 1200px;
+	height: 600px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	text-align: center;
+	line-height: 1.6;
+}
+
+.worldmain .box1>h1{
+	padding-top: 200px;
+	font-size:  48px;
+	font-weight: bold;
+}
+
+.worldmain .box1>h2{
+	font-size:  40px;
+}
+
+.worldmain .box2{
+	background-color: #333;
+	width: 1200px;
+	height: 500px;
+	display: flex;
+}
+
+.worldmain .box2img img{
+	width: 500px;
+	height: 300px;
+	padding-top: 50px
+}
+
+.worldmain .box2 h1{
+	color: white;
+	font-size: 24px;
+	text-align: center;
+	padding-top: 150px;
+	line-height: 1.6;
+}
+
+.worldmain .box2  p{
+	color: white;
+	line-height: 1.6;
+	padding: 0 50px 0 50px;
+}
